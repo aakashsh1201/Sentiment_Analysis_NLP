@@ -16,8 +16,6 @@ Python dependencies used:-
 6. Regex 2020.6.8
 7. NLTK 3.5
 
-Check it out on
-https://sentiment-analysis-web-app.herokuapp.com
 
 It might take few seconds to load please give it a try
 
@@ -42,6 +40,6 @@ It might take few seconds to load please give it a try
 
 - Added session object to remember admin credentials for short amount of time.
 
-- Now you can upload a test file of reviews and then it will show you the graph of the predicted sentiments. Check it out [here](https://sentiment-analysis-web-app.herokuapp.com/upload)
+- Now you can upload a test file of reviews and then it will show you the graph of the predicted sentiments. 
 
 - Implemented custom scroll bar, now it looks kind of cool and now you can use it as a pwa, go to 'add to screen' and then it will be a standalone chrome app
