@@ -36,8 +36,6 @@ It might take few seconds to load please give it a try
 
 - Implemented some async js to make predictions faster and avoid reloading using jquery
 
-- 
-
 - Added session object to remember admin credentials for short amount of time.
 
 - Now you can upload a test file of reviews and then it will show you the graph of the predicted sentiments. 
